@@ -1,1 +1,1 @@
-React exercises
+Accordion
